@@ -12,7 +12,7 @@ This is a React application designed to help you manage your tasks effectively. 
 
 ## Getting Started:
 
-* Clone the repository: git clone https://github.com/your-username/react-task-tracker.git
+* Clone the repository: git clone https://github.com/SuyashNK/Ridiv-Tech-ReactAssignment2.git
 * Install dependencies: npm install
 * Start the development server: npm start
 * Open http://localhost:3000 in your browser
